@@ -15,6 +15,10 @@ Models is a component where we can interact with AI models, the problem is model
 
 <b>Types of models:
 - language model</b> : take text as ip and return text as op
+    <b>
+  - Types of language model:
+    - LLM's </b>: Majorly used for text generation, summarization, and translation etc
+    - <b>chat models </b>: Specially for conversations, it also maintain context and provide structured rensposes.
 - <b>embedding model</b> : take text as ip and return vector as op, mainly used for semantic search
 
 ### Prompt
