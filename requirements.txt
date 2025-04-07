@@ -1,0 +1,1 @@
+# CMD: pipreqs . --force --savepath requirements.txt
