@@ -1,12 +1,12 @@
-Langchain - Framework for developing applications powered by Large Language Models (LLM's)
+**Langchain** - Framework for developing applications powered by Large Language Models (LLM's)
 
 # Components of Langchain
-1. Models
-2. Prompt
-3. Chain
-4. Memory
-5. Indexes
-6. Agents
+**1. Models\
+2. Prompt\
+3. Chain\
+4. Memory\
+5. Indexes\
+6. Agents**
 
 ### Models
 
@@ -58,9 +58,8 @@ Types of memory in langchain:
 ### Agents
 Agents are just a evolved form of chatbot which have reasoning capabilities and tools access which can be used to perform any action.
 
-
-
-
+### RAG Workflow
+![e__MLOps_langchain_workflow_RAG](https://github.com/user-attachments/assets/a9c84674-c3b2-42f5-87fc-5f8b2843d780)
 
 
 
